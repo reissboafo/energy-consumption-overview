@@ -1,0 +1,12 @@
+[10-May-2025 19:22:57 UTC] PHP Warning:  Undefined variable $db_host in C:\MAMP\htdocs\energy-dashboard\api\get_chart_data.php on line 5
+[10-May-2025 19:22:57 UTC] PHP Warning:  Undefined variable $db_name in C:\MAMP\htdocs\energy-dashboard\api\get_chart_data.php on line 5
+[10-May-2025 19:22:57 UTC] PHP Warning:  Undefined variable $db_user in C:\MAMP\htdocs\energy-dashboard\api\get_chart_data.php on line 5
+[10-May-2025 19:22:57 UTC] PHP Warning:  Undefined variable $db_pass in C:\MAMP\htdocs\energy-dashboard\api\get_chart_data.php on line 5
+[10-May-2025 19:22:58 UTC] PHP Warning:  Undefined variable $db_host in C:\MAMP\htdocs\energy-dashboard\api\get_chart_data.php on line 5
+[10-May-2025 19:22:58 UTC] PHP Warning:  Undefined variable $db_name in C:\MAMP\htdocs\energy-dashboard\api\get_chart_data.php on line 5
+[10-May-2025 19:22:58 UTC] PHP Warning:  Undefined variable $db_user in C:\MAMP\htdocs\energy-dashboard\api\get_chart_data.php on line 5
+[10-May-2025 19:22:58 UTC] PHP Warning:  Undefined variable $db_pass in C:\MAMP\htdocs\energy-dashboard\api\get_chart_data.php on line 5
+[10-May-2025 20:10:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in C:\MAMP\htdocs\energy-dashboard\upload.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\MAMP\htdocs\energy-dashboard\upload.php on line 26

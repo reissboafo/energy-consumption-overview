@@ -1,0 +1,15 @@
+energy-dashboard/
+├── index.php             # Main dashboard
+├── upload.php            # CSV upload processing
+├── analyze.php          # Data analysis page
+├── config.php           # Database configuration
+├── functions.php        # Helper functions
+├── assets/
+│   ├── css/
+│   │   └── style.css    # Custom styles
+│   └── js/
+│       └── script.js    # Custom JavaScript
+├── uploads/             # Directory for uploaded CSV files
+└── includes/            # Common header/footer
+    ├── header.php
+    └── footer.php

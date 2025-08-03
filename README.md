@@ -2,6 +2,8 @@
 
 A web-based dashboard for visualizing and analyzing energy consumption data across different locations. Built with PHP, MySQL, Chart.js, and Leaflet.js.
 
+https://github.com/reissboafo/energy-consumption-overview/blob/main/display.png
+
 ## Features
 
 - 📊 Interactive data visualization with Chart.js

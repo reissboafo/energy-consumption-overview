@@ -2,7 +2,7 @@
 
 A web-based dashboard for visualizing and analyzing energy consumption data across different locations. Built with PHP, MySQL, Chart.js, and Leaflet.js.
 
-<img src="display.png" height="300" /> <img src="display1.png" height="300" />
+<img src="display1.png" height="300" /> <img src="display.png" height="300" />
 
 
 ## Features
@@ -90,3 +90,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Chart.js for visualization
 - Leaflet.js for mapping functionality
 - Bootstrap for UI components
+
